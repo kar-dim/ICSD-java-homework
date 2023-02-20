@@ -1,0 +1,436 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="fcbc52c6-e68a-41bd-8b25-93362dd52bea" name="Changes" comment="added all projects">
+      <change afterPath="$PROJECT_DIR$/HW1/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HW3_SipKAP_Alice/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HW3_SipKAP_Alice/.idea/libraries/addressbook.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HW3_SipKAP_Alice/.idea/libraries/bcprov_jdk18on_172.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HW3_SipKAP_Alice/.idea/libraries/i2p.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HW3_SipKAP_Alice/.idea/libraries/i2ptunnel.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HW3_SipKAP_Alice/.idea/libraries/javax_xml_bind_jaxb_api.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HW3_SipKAP_Alice/.idea/libraries/router.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HW3_SipKAP_Alice/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HW3_SipKAP_Alice/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HW3_SipKAP_Alice/lib/bcprov-jdk18on-172.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HW3_SipKAP_Alice/lib/i2p/addressbook.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HW3_SipKAP_Alice/lib/i2p/commons-el.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HW3_SipKAP_Alice/lib/i2p/desktopgui.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HW3_SipKAP_Alice/lib/i2p/i2p.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HW3_SipKAP_Alice/lib/i2p/i2psnark.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HW3_SipKAP_Alice/lib/i2p/i2ptunnel.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HW3_SipKAP_Alice/lib/i2p/jasper-runtime.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HW3_SipKAP_Alice/lib/i2p/javax.servlet.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HW3_SipKAP_Alice/lib/i2p/jbigi.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HW3_SipKAP_Alice/lib/i2p/jetty-continuation.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HW3_SipKAP_Alice/lib/i2p/jetty-deploy.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HW3_SipKAP_Alice/lib/i2p/jetty-http.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HW3_SipKAP_Alice/lib/i2p/jetty-i2p.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HW3_SipKAP_Alice/lib/i2p/jetty-io.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HW3_SipKAP_Alice/lib/i2p/jetty-rewrite-handler.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HW3_SipKAP_Alice/lib/i2p/jetty-security.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HW3_SipKAP_Alice/lib/i2p/jetty-servlet.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HW3_SipKAP_Alice/lib/i2p/jetty-servlets.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HW3_SipKAP_Alice/lib/i2p/jetty-start.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HW3_SipKAP_Alice/lib/i2p/jetty-util.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HW3_SipKAP_Alice/lib/i2p/jetty-webapp.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HW3_SipKAP_Alice/lib/i2p/jetty-xml.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HW3_SipKAP_Alice/lib/i2p/jrobin.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HW3_SipKAP_Alice/lib/i2p/jstl.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HW3_SipKAP_Alice/lib/i2p/mstreaming.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HW3_SipKAP_Alice/lib/i2p/org.mortbay.jetty.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HW3_SipKAP_Alice/lib/i2p/org.mortbay.jmx.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HW3_SipKAP_Alice/lib/i2p/router.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HW3_SipKAP_Alice/lib/i2p/routerconsole.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HW3_SipKAP_Alice/lib/i2p/sam.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HW3_SipKAP_Alice/lib/i2p/standard.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HW3_SipKAP_Alice/lib/i2p/streaming.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HW3_SipKAP_Alice/lib/i2p/systray.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HW3_SipKAP_Alice/lib/i2p/wrapper-windows-x86-32.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HW3_SipKAP_Alice/lib/i2p/wrapper.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HW3_SipKAP_Alice/lib/i2p/wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HW3_SipKAP_Alice/lib/jaxb-api-2.3.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HW3_SipKAP_Alice/out/production/HW3_SipKAP_Alice/Alice.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HW3_SipKAP_Alice/out/production/HW3_SipKAP_Alice/AliceEncryptedConnection.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HW3_SipKAP_Alice/out/production/HW3_SipKAP_Alice/AliceSipGUI.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HW3_SipKAP_Alice/out/production/HW3_SipKAP_Alice/ConnectionNotSafeException.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HW3_SipKAP_Alice/out/production/HW3_SipKAP_Alice/I2PClient.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HW3_SipKAP_Alice/out/production/HW3_SipKAP_Alice/I2PServer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HW3_SipKAP_Alice/out/production/HW3_SipKAP_Alice/MainAlice.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HW3_SipKAP_Alice/out/production/HW3_SipKAP_Alice/Message.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HW3_SipKAP_Alice/out/production/HW3_SipKAP_Alice/SIPMessage.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HW3_SipKAP_Alice/out/production/HW3_SipKAP_Alice/Sip.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HW3_SipKAP_Alice/out/production/HW3_SipKAP_Alice/TokenGenerator.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HW3_SipKAP_Alice/out/production/HW3_SipKAP_Alice/UnknownProtocolCommandException.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HW3_SipKAP_Alice/out/production/HW3_SipKAP_Alice/User.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HW3_SipKAP_Alice_Proxy/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HW3_SipKAP_Alice_Proxy/.idea/libraries/bcprov_jdk18on_172.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HW3_SipKAP_Alice_Proxy/.idea/libraries/i2p.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HW3_SipKAP_Alice_Proxy/.idea/libraries/jaxb_api_2_3_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HW3_SipKAP_Alice_Proxy/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HW3_SipKAP_Alice_Proxy/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HW3_SipKAP_Alice_Proxy/lib/bcprov-jdk18on-172.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HW3_SipKAP_Alice_Proxy/lib/i2p/addressbook.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HW3_SipKAP_Alice_Proxy/lib/i2p/commons-el.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HW3_SipKAP_Alice_Proxy/lib/i2p/desktopgui.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HW3_SipKAP_Alice_Proxy/lib/i2p/i2p.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HW3_SipKAP_Alice_Proxy/lib/i2p/i2psnark.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HW3_SipKAP_Alice_Proxy/lib/i2p/i2ptunnel.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HW3_SipKAP_Alice_Proxy/lib/i2p/jasper-runtime.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HW3_SipKAP_Alice_Proxy/lib/i2p/javax.servlet.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HW3_SipKAP_Alice_Proxy/lib/i2p/jbigi.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HW3_SipKAP_Alice_Proxy/lib/i2p/jetty-continuation.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HW3_SipKAP_Alice_Proxy/lib/i2p/jetty-deploy.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HW3_SipKAP_Alice_Proxy/lib/i2p/jetty-http.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HW3_SipKAP_Alice_Proxy/lib/i2p/jetty-i2p.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HW3_SipKAP_Alice_Proxy/lib/i2p/jetty-io.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HW3_SipKAP_Alice_Proxy/lib/i2p/jetty-rewrite-handler.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HW3_SipKAP_Alice_Proxy/lib/i2p/jetty-security.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HW3_SipKAP_Alice_Proxy/lib/i2p/jetty-servlet.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HW3_SipKAP_Alice_Proxy/lib/i2p/jetty-servlets.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HW3_SipKAP_Alice_Proxy/lib/i2p/jetty-start.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HW3_SipKAP_Alice_Proxy/lib/i2p/jetty-util.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HW3_SipKAP_Alice_Proxy/lib/i2p/jetty-webapp.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HW3_SipKAP_Alice_Proxy/lib/i2p/jetty-xml.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HW3_SipKAP_Alice_Proxy/lib/i2p/jrobin.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HW3_SipKAP_Alice_Proxy/lib/i2p/jstl.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HW3_SipKAP_Alice_Proxy/lib/i2p/mstreaming.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HW3_SipKAP_Alice_Proxy/lib/i2p/org.mortbay.jetty.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HW3_SipKAP_Alice_Proxy/lib/i2p/org.mortbay.jmx.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HW3_SipKAP_Alice_Proxy/lib/i2p/router.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HW3_SipKAP_Alice_Proxy/lib/i2p/routerconsole.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HW3_SipKAP_Alice_Proxy/lib/i2p/sam.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HW3_SipKAP_Alice_Proxy/lib/i2p/standard.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HW3_SipKAP_Alice_Proxy/lib/i2p/streaming.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HW3_SipKAP_Alice_Proxy/lib/i2p/systray.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HW3_SipKAP_Alice_Proxy/lib/i2p/wrapper-windows-x86-32.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HW3_SipKAP_Alice_Proxy/lib/i2p/wrapper.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HW3_SipKAP_Alice_Proxy/lib/i2p/wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HW3_SipKAP_Alice_Proxy/lib/jaxb-api-2.3.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HW3_SipKAP_Alice_Proxy/out/production/HW3_SipKAP_Alice_Proxy/AliceProxy.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HW3_SipKAP_Alice_Proxy/out/production/HW3_SipKAP_Alice_Proxy/AliceProxyEncryptedConnection.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HW3_SipKAP_Alice_Proxy/out/production/HW3_SipKAP_Alice_Proxy/ConnectionNotSafeException.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HW3_SipKAP_Alice_Proxy/out/production/HW3_SipKAP_Alice_Proxy/I2PClient.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HW3_SipKAP_Alice_Proxy/out/production/HW3_SipKAP_Alice_Proxy/I2PServer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HW3_SipKAP_Alice_Proxy/out/production/HW3_SipKAP_Alice_Proxy/MainAliceProxy.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HW3_SipKAP_Alice_Proxy/out/production/HW3_SipKAP_Alice_Proxy/Message.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HW3_SipKAP_Alice_Proxy/out/production/HW3_SipKAP_Alice_Proxy/SIPMessage.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HW3_SipKAP_Alice_Proxy/out/production/HW3_SipKAP_Alice_Proxy/Sip.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HW3_SipKAP_Alice_Proxy/out/production/HW3_SipKAP_Alice_Proxy/TokenGenerator.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HW3_SipKAP_Alice_Proxy/out/production/HW3_SipKAP_Alice_Proxy/UnknownProtocolCommandException.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HW3_SipKAP_Alice_Proxy/out/production/HW3_SipKAP_Alice_Proxy/User.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HW3_SipKAP_Bob/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HW3_SipKAP_Bob/.idea/libraries/bcprov_jdk18on_172.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HW3_SipKAP_Bob/.idea/libraries/i2p.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HW3_SipKAP_Bob/.idea/libraries/jaxb_api_2_3_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HW3_SipKAP_Bob/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HW3_SipKAP_Bob/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HW3_SipKAP_Bob/lib/bcprov-jdk18on-172.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HW3_SipKAP_Bob/lib/i2p/addressbook.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HW3_SipKAP_Bob/lib/i2p/commons-el.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HW3_SipKAP_Bob/lib/i2p/desktopgui.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HW3_SipKAP_Bob/lib/i2p/i2p.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HW3_SipKAP_Bob/lib/i2p/i2psnark.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HW3_SipKAP_Bob/lib/i2p/i2ptunnel.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HW3_SipKAP_Bob/lib/i2p/jasper-runtime.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HW3_SipKAP_Bob/lib/i2p/javax.servlet.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HW3_SipKAP_Bob/lib/i2p/jbigi.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HW3_SipKAP_Bob/lib/i2p/jetty-continuation.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HW3_SipKAP_Bob/lib/i2p/jetty-deploy.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HW3_SipKAP_Bob/lib/i2p/jetty-http.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HW3_SipKAP_Bob/lib/i2p/jetty-i2p.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HW3_SipKAP_Bob/lib/i2p/jetty-io.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HW3_SipKAP_Bob/lib/i2p/jetty-rewrite-handler.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HW3_SipKAP_Bob/lib/i2p/jetty-security.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HW3_SipKAP_Bob/lib/i2p/jetty-servlet.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HW3_SipKAP_Bob/lib/i2p/jetty-servlets.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HW3_SipKAP_Bob/lib/i2p/jetty-start.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HW3_SipKAP_Bob/lib/i2p/jetty-util.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HW3_SipKAP_Bob/lib/i2p/jetty-webapp.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HW3_SipKAP_Bob/lib/i2p/jetty-xml.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HW3_SipKAP_Bob/lib/i2p/jrobin.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HW3_SipKAP_Bob/lib/i2p/jstl.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HW3_SipKAP_Bob/lib/i2p/mstreaming.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HW3_SipKAP_Bob/lib/i2p/org.mortbay.jetty.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HW3_SipKAP_Bob/lib/i2p/org.mortbay.jmx.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HW3_SipKAP_Bob/lib/i2p/router.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HW3_SipKAP_Bob/lib/i2p/routerconsole.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HW3_SipKAP_Bob/lib/i2p/sam.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HW3_SipKAP_Bob/lib/i2p/standard.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HW3_SipKAP_Bob/lib/i2p/streaming.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HW3_SipKAP_Bob/lib/i2p/systray.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HW3_SipKAP_Bob/lib/i2p/wrapper-windows-x86-32.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HW3_SipKAP_Bob/lib/i2p/wrapper.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HW3_SipKAP_Bob/lib/i2p/wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HW3_SipKAP_Bob/lib/jaxb-api-2.3.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HW3_SipKAP_Bob/out/production/HW3_SipKAP_Bob/Bob.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HW3_SipKAP_Bob/out/production/HW3_SipKAP_Bob/BobEncryptedConnection.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HW3_SipKAP_Bob/out/production/HW3_SipKAP_Bob/BobSipGUI.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HW3_SipKAP_Bob/out/production/HW3_SipKAP_Bob/ConnectionNotSafeException.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HW3_SipKAP_Bob/out/production/HW3_SipKAP_Bob/I2PClient.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HW3_SipKAP_Bob/out/production/HW3_SipKAP_Bob/I2PServer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HW3_SipKAP_Bob/out/production/HW3_SipKAP_Bob/MainBob.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HW3_SipKAP_Bob/out/production/HW3_SipKAP_Bob/Message.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HW3_SipKAP_Bob/out/production/HW3_SipKAP_Bob/SIPMessage.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HW3_SipKAP_Bob/out/production/HW3_SipKAP_Bob/Sip.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HW3_SipKAP_Bob/out/production/HW3_SipKAP_Bob/TokenGenerator.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HW3_SipKAP_Bob/out/production/HW3_SipKAP_Bob/UnknownProtocolCommandException.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HW3_SipKAP_Bob/out/production/HW3_SipKAP_Bob/User.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HW3_SipKAP_BobProxy/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HW3_SipKAP_BobProxy/.idea/libraries/bcprov_jdk18on_172.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HW3_SipKAP_BobProxy/.idea/libraries/i2p.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HW3_SipKAP_BobProxy/.idea/libraries/jaxb_api_2_3_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HW3_SipKAP_BobProxy/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HW3_SipKAP_BobProxy/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HW3_SipKAP_BobProxy/lib/bcprov-jdk18on-172.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HW3_SipKAP_BobProxy/lib/i2p/addressbook.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HW3_SipKAP_BobProxy/lib/i2p/commons-el.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HW3_SipKAP_BobProxy/lib/i2p/desktopgui.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HW3_SipKAP_BobProxy/lib/i2p/i2p.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HW3_SipKAP_BobProxy/lib/i2p/i2psnark.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HW3_SipKAP_BobProxy/lib/i2p/i2ptunnel.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HW3_SipKAP_BobProxy/lib/i2p/jasper-runtime.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HW3_SipKAP_BobProxy/lib/i2p/javax.servlet.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HW3_SipKAP_BobProxy/lib/i2p/jbigi.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HW3_SipKAP_BobProxy/lib/i2p/jetty-continuation.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HW3_SipKAP_BobProxy/lib/i2p/jetty-deploy.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HW3_SipKAP_BobProxy/lib/i2p/jetty-http.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HW3_SipKAP_BobProxy/lib/i2p/jetty-i2p.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HW3_SipKAP_BobProxy/lib/i2p/jetty-io.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HW3_SipKAP_BobProxy/lib/i2p/jetty-rewrite-handler.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HW3_SipKAP_BobProxy/lib/i2p/jetty-security.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HW3_SipKAP_BobProxy/lib/i2p/jetty-servlet.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HW3_SipKAP_BobProxy/lib/i2p/jetty-servlets.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HW3_SipKAP_BobProxy/lib/i2p/jetty-start.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HW3_SipKAP_BobProxy/lib/i2p/jetty-util.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HW3_SipKAP_BobProxy/lib/i2p/jetty-webapp.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HW3_SipKAP_BobProxy/lib/i2p/jetty-xml.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HW3_SipKAP_BobProxy/lib/i2p/jrobin.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HW3_SipKAP_BobProxy/lib/i2p/jstl.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HW3_SipKAP_BobProxy/lib/i2p/mstreaming.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HW3_SipKAP_BobProxy/lib/i2p/org.mortbay.jetty.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HW3_SipKAP_BobProxy/lib/i2p/org.mortbay.jmx.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HW3_SipKAP_BobProxy/lib/i2p/router.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HW3_SipKAP_BobProxy/lib/i2p/routerconsole.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HW3_SipKAP_BobProxy/lib/i2p/sam.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HW3_SipKAP_BobProxy/lib/i2p/standard.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HW3_SipKAP_BobProxy/lib/i2p/streaming.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HW3_SipKAP_BobProxy/lib/i2p/systray.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HW3_SipKAP_BobProxy/lib/i2p/wrapper-windows-x86-32.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HW3_SipKAP_BobProxy/lib/i2p/wrapper.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HW3_SipKAP_BobProxy/lib/i2p/wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HW3_SipKAP_BobProxy/lib/jaxb-api-2.3.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HW3_SipKAP_BobProxy/out/production/HW3_SipKAP_BobProxy/BobProxy.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HW3_SipKAP_BobProxy/out/production/HW3_SipKAP_BobProxy/BobProxyEncryptedConnection.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HW3_SipKAP_BobProxy/out/production/HW3_SipKAP_BobProxy/ConnectionNotSafeException.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HW3_SipKAP_BobProxy/out/production/HW3_SipKAP_BobProxy/I2PClient.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HW3_SipKAP_BobProxy/out/production/HW3_SipKAP_BobProxy/I2PServer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HW3_SipKAP_BobProxy/out/production/HW3_SipKAP_BobProxy/MainBobProxy.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HW3_SipKAP_BobProxy/out/production/HW3_SipKAP_BobProxy/Message.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HW3_SipKAP_BobProxy/out/production/HW3_SipKAP_BobProxy/SIPMessage.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HW3_SipKAP_BobProxy/out/production/HW3_SipKAP_BobProxy/Sip.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HW3_SipKAP_BobProxy/out/production/HW3_SipKAP_BobProxy/TokenGenerator.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HW3_SipKAP_BobProxy/out/production/HW3_SipKAP_BobProxy/UnknownProtocolCommandException.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HW3_SipKAP_BobProxy/out/production/HW3_SipKAP_BobProxy/User.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HW4_AirReservation_Client/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HW4_AirReservation_Client/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HW4_AirReservation_Client/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HW4_AirReservation_Client/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HW4_AirReservation_Client/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HW4_AirReservation_Server/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HW4_AirReservation_Server/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HW4_AirReservation_Server/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HW4_AirReservation_Server/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HW4_AirReservation_Server/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HW4_AirReservation_Server/Askisi_2_omadiki.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HW4_AirReservation_Server/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HW5_Client/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HW5_Client/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HW5_Client/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HW5_Client/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HW5_Client/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HW5_Server/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HW5_Server/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HW5_Server/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HW5_Server/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HW5_Server/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HW2/MultiKAP_Client/Client_DH.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HW2/MultiKAP_Client/Client_RSA.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HW2/MultiKAP_Client/Client_Sts.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HW2/MultiKAP_Client/ConnectionNotSafeException.java" beforeDir="false" afterPath="$PROJECT_DIR$/HW3_SipKAP_Alice_Proxy/src/ConnectionNotSafeException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HW2/MultiKAP_Client/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HW2/MultiKAP_Client/Message.java" beforeDir="false" afterPath="$PROJECT_DIR$/HW3_SipKAP_BobProxy/src/Message.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HW2/MultiKAP_Client/TokenGenerator.java" beforeDir="false" afterPath="$PROJECT_DIR$/HW3_SipKAP_BobProxy/src/TokenGenerator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HW2/MultiKAP_Client/UnknownProtocolCommandException.java" beforeDir="false" afterPath="$PROJECT_DIR$/HW3_SipKAP_Bob/src/UnknownProtocolCommandException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HW2/MultiKAP_Client/certificates/client2signed.cer" beforeDir="false" afterPath="$PROJECT_DIR$/HW3_SipKAP_Bob/certificates/client2signed.cer" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HW2/MultiKAP_Client/keystores/keystoreCL2" beforeDir="false" afterPath="$PROJECT_DIR$/HW3_SipKAP_Bob/keystores/keystoreCL2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HW2/MultiKAP_Client/keystores/truststoreCL2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HW2/MultiKAP_Server/ConnectionNotSafeException.java" beforeDir="false" afterPath="$PROJECT_DIR$/HW3_SipKAP_BobProxy/src/ConnectionNotSafeException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HW2/MultiKAP_Server/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HW2/MultiKAP_Server/Message.java" beforeDir="false" afterPath="$PROJECT_DIR$/HW3_SipKAP_Bob/src/Message.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HW2/MultiKAP_Server/Server_DH.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HW2/MultiKAP_Server/Server_RSA.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HW2/MultiKAP_Server/Server_StS.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HW2/MultiKAP_Server/TokenGenerator.java" beforeDir="false" afterPath="$PROJECT_DIR$/HW3_SipKAP_Bob/src/TokenGenerator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HW2/MultiKAP_Server/UnknownProtocolCommandException.java" beforeDir="false" afterPath="$PROJECT_DIR$/HW3_SipKAP_Alice/src/UnknownProtocolCommandException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HW2/MultiKAP_Server/certificates/client1.pem" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HW2/MultiKAP_Server/certificates/client1signed.cer" beforeDir="false" afterPath="$PROJECT_DIR$/HW3_SipKAP_Alice/certificates/client1signed.cer" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HW2/MultiKAP_Server/keystores/keystoreCL1" beforeDir="false" afterPath="$PROJECT_DIR$/HW3_SipKAP_Alice/keystores/keystoreCL1" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HW2/MultiKAP_Server/keystores/truststoreCL1" beforeDir="false" afterPath="$PROJECT_DIR$/HW3_SipKAP_Alice/keystores/truststoreCL1" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HW3/SipKAP_Alice/certificates/client1signed.cer" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HW3/SipKAP_Alice/iv/iv" beforeDir="false" afterPath="$PROJECT_DIR$/HW3_SipKAP_Alice/iv/iv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HW3/SipKAP_Alice/keys/skey_client.key" beforeDir="false" afterPath="$PROJECT_DIR$/HW3_SipKAP_Alice/keys/skey_client.key" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HW3/SipKAP_Alice/keystores/keystoreCL1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HW3/SipKAP_Alice/keystores/truststoreCL1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HW3/SipKAP_Alice/sounds/call.wav" beforeDir="false" afterPath="$PROJECT_DIR$/HW3_SipKAP_Alice/sounds/call.wav" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HW3/SipKAP_Alice/src/Alice.java" beforeDir="false" afterPath="$PROJECT_DIR$/HW3_SipKAP_Alice/src/Alice.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HW3/SipKAP_Alice/src/AliceEncryptedConnection.java" beforeDir="false" afterPath="$PROJECT_DIR$/HW3_SipKAP_Alice/src/AliceEncryptedConnection.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HW3/SipKAP_Alice/src/AliceSipGUI.java" beforeDir="false" afterPath="$PROJECT_DIR$/HW3_SipKAP_Alice/src/AliceSipGUI.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HW3/SipKAP_Alice/src/ConnectionNotSafeException.java" beforeDir="false" afterPath="$PROJECT_DIR$/HW3_SipKAP_Alice/src/ConnectionNotSafeException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HW3/SipKAP_Alice/src/I2PClient.java" beforeDir="false" afterPath="$PROJECT_DIR$/HW3_SipKAP_Alice/src/I2PClient.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HW3/SipKAP_Alice/src/I2PServer.java" beforeDir="false" afterPath="$PROJECT_DIR$/HW3_SipKAP_BobProxy/src/I2PServer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HW3/SipKAP_Alice/src/MainAlice.java" beforeDir="false" afterPath="$PROJECT_DIR$/HW3_SipKAP_Alice/src/MainAlice.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HW3/SipKAP_Alice/src/Message.java" beforeDir="false" afterPath="$PROJECT_DIR$/HW3_SipKAP_Alice/src/Message.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HW3/SipKAP_Alice/src/SIPMessage.java" beforeDir="false" afterPath="$PROJECT_DIR$/HW3_SipKAP_Alice/src/SIPMessage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HW3/SipKAP_Alice/src/Sip.java" beforeDir="false" afterPath="$PROJECT_DIR$/HW3_SipKAP_Alice_Proxy/src/Sip.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HW3/SipKAP_Alice/src/TokenGenerator.java" beforeDir="false" afterPath="$PROJECT_DIR$/HW3_SipKAP_Alice_Proxy/src/TokenGenerator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HW3/SipKAP_Alice/src/UnknownProtocolCommandException.java" beforeDir="false" afterPath="$PROJECT_DIR$/HW3_SipKAP_Alice_Proxy/src/UnknownProtocolCommandException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HW3/SipKAP_Alice/src/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/HW3_SipKAP_Alice/src/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HW3/SipKAP_AliceProxy/a" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HW3/SipKAP_AliceProxy/certificates/proxy1.csr" beforeDir="false" afterPath="$PROJECT_DIR$/HW3_SipKAP_Alice_Proxy/certificates/proxy1.csr" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HW3/SipKAP_AliceProxy/certificates/proxy1signed.cer" beforeDir="false" afterPath="$PROJECT_DIR$/HW3_SipKAP_Alice_Proxy/certificates/proxy1signed.cer" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HW3/SipKAP_AliceProxy/iv/iv" beforeDir="false" afterPath="$PROJECT_DIR$/HW3_SipKAP_Alice_Proxy/iv/iv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HW3/SipKAP_AliceProxy/keys/skey_client.key" beforeDir="false" afterPath="$PROJECT_DIR$/HW3_SipKAP_Alice_Proxy/keys/skey_client.key" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HW3/SipKAP_AliceProxy/keys/skey_proxy.key" beforeDir="false" afterPath="$PROJECT_DIR$/HW3_SipKAP_Alice_Proxy/keys/skey_proxy.key" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HW3/SipKAP_AliceProxy/keystores/keystorePRX1" beforeDir="false" afterPath="$PROJECT_DIR$/HW3_SipKAP_Alice_Proxy/keystores/keystorePRX1" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HW3/SipKAP_AliceProxy/keystores/truststorePRX1" beforeDir="false" afterPath="$PROJECT_DIR$/HW3_SipKAP_Alice_Proxy/keystores/truststorePRX1" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HW3/SipKAP_AliceProxy/src/AliceProxy.java" beforeDir="false" afterPath="$PROJECT_DIR$/HW3_SipKAP_Alice_Proxy/src/AliceProxy.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HW3/SipKAP_AliceProxy/src/AliceProxyEncryptedConnection.java" beforeDir="false" afterPath="$PROJECT_DIR$/HW3_SipKAP_Alice_Proxy/src/AliceProxyEncryptedConnection.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HW3/SipKAP_AliceProxy/src/ConnectionNotSafeException.java" beforeDir="false" afterPath="$PROJECT_DIR$/HW3_SipKAP_Bob/src/ConnectionNotSafeException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HW3/SipKAP_AliceProxy/src/I2PClient.java" beforeDir="false" afterPath="$PROJECT_DIR$/HW3_SipKAP_Bob/src/I2PClient.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HW3/SipKAP_AliceProxy/src/I2PServer.java" beforeDir="false" afterPath="$PROJECT_DIR$/HW3_SipKAP_Bob/src/I2PServer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HW3/SipKAP_AliceProxy/src/MainAliceProxy.java" beforeDir="false" afterPath="$PROJECT_DIR$/HW3_SipKAP_Alice_Proxy/src/MainAliceProxy.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HW3/SipKAP_AliceProxy/src/Message.java" beforeDir="false" afterPath="$PROJECT_DIR$/HW3_SipKAP_Alice_Proxy/src/Message.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HW3/SipKAP_AliceProxy/src/SIPMessage.java" beforeDir="false" afterPath="$PROJECT_DIR$/HW3_SipKAP_Bob/src/SIPMessage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HW3/SipKAP_AliceProxy/src/Sip.java" beforeDir="false" afterPath="$PROJECT_DIR$/HW3_SipKAP_Alice/src/Sip.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HW3/SipKAP_AliceProxy/src/TokenGenerator.java" beforeDir="false" afterPath="$PROJECT_DIR$/HW3_SipKAP_Alice/src/TokenGenerator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HW3/SipKAP_AliceProxy/src/UnknownProtocolCommandException.java" beforeDir="false" afterPath="$PROJECT_DIR$/HW3_SipKAP_BobProxy/src/UnknownProtocolCommandException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HW3/SipKAP_AliceProxy/src/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/HW3_SipKAP_Alice_Proxy/src/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HW3/SipKAP_AliceProxy/users/users.dat" beforeDir="false" afterPath="$PROJECT_DIR$/HW3_SipKAP_Alice_Proxy/users/users.dat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HW3/SipKAP_Bob/certificates/client2signed.cer" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HW3/SipKAP_Bob/iv/iv" beforeDir="false" afterPath="$PROJECT_DIR$/HW3_SipKAP_Bob/iv/iv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HW3/SipKAP_Bob/keys/skey_client.key" beforeDir="false" afterPath="$PROJECT_DIR$/HW3_SipKAP_Bob/keys/skey_client.key" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HW3/SipKAP_Bob/keystores/keystoreCL2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HW3/SipKAP_Bob/keystores/truststoreCL2" beforeDir="false" afterPath="$PROJECT_DIR$/HW3_SipKAP_Bob/keystores/truststoreCL2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HW3/SipKAP_Bob/sounds/call.wav" beforeDir="false" afterPath="$PROJECT_DIR$/HW3_SipKAP_Bob/sounds/call.wav" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HW3/SipKAP_Bob/src/Bob.java" beforeDir="false" afterPath="$PROJECT_DIR$/HW3_SipKAP_Bob/src/Bob.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HW3/SipKAP_Bob/src/BobEncryptedConnection.java" beforeDir="false" afterPath="$PROJECT_DIR$/HW3_SipKAP_Bob/src/BobEncryptedConnection.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HW3/SipKAP_Bob/src/BobSipGUI.java" beforeDir="false" afterPath="$PROJECT_DIR$/HW3_SipKAP_Bob/src/BobSipGUI.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HW3/SipKAP_Bob/src/ConnectionNotSafeException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HW3/SipKAP_Bob/src/I2PClient.java" beforeDir="false" afterPath="$PROJECT_DIR$/HW3_SipKAP_Alice_Proxy/src/I2PClient.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HW3/SipKAP_Bob/src/I2PServer.java" beforeDir="false" afterPath="$PROJECT_DIR$/HW3_SipKAP_Alice/src/I2PServer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HW3/SipKAP_Bob/src/MainBob.java" beforeDir="false" afterPath="$PROJECT_DIR$/HW3_SipKAP_Bob/src/MainBob.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HW3/SipKAP_Bob/src/Message.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HW3/SipKAP_Bob/src/SIPMessage.java" beforeDir="false" afterPath="$PROJECT_DIR$/HW3_SipKAP_BobProxy/src/SIPMessage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HW3/SipKAP_Bob/src/Sip.java" beforeDir="false" afterPath="$PROJECT_DIR$/HW3_SipKAP_Bob/src/Sip.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HW3/SipKAP_Bob/src/TokenGenerator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HW3/SipKAP_Bob/src/UnknownProtocolCommandException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HW3/SipKAP_Bob/src/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/HW3_SipKAP_BobProxy/src/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HW3/SipKAP_BobProxy/a" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HW3/SipKAP_BobProxy/certificates/proxy2.csr" beforeDir="false" afterPath="$PROJECT_DIR$/HW3_SipKAP_BobProxy/certificates/proxy2.csr" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HW3/SipKAP_BobProxy/certificates/proxy2signed.cer" beforeDir="false" afterPath="$PROJECT_DIR$/HW3_SipKAP_BobProxy/certificates/proxy2signed.cer" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HW3/SipKAP_BobProxy/iv/iv" beforeDir="false" afterPath="$PROJECT_DIR$/HW3_SipKAP_BobProxy/iv/iv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HW3/SipKAP_BobProxy/keys/skey_client.key" beforeDir="false" afterPath="$PROJECT_DIR$/HW3_SipKAP_BobProxy/keys/skey_client.key" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HW3/SipKAP_BobProxy/keys/skey_proxy.key" beforeDir="false" afterPath="$PROJECT_DIR$/HW3_SipKAP_BobProxy/keys/skey_proxy.key" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HW3/SipKAP_BobProxy/keystores/keystorePRX2" beforeDir="false" afterPath="$PROJECT_DIR$/HW3_SipKAP_BobProxy/keystores/keystorePRX2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HW3/SipKAP_BobProxy/keystores/truststorePRX2" beforeDir="false" afterPath="$PROJECT_DIR$/HW3_SipKAP_BobProxy/keystores/truststorePRX2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HW3/SipKAP_BobProxy/src/BobProxy.java" beforeDir="false" afterPath="$PROJECT_DIR$/HW3_SipKAP_BobProxy/src/BobProxy.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HW3/SipKAP_BobProxy/src/BobProxyEncryptedConnection.java" beforeDir="false" afterPath="$PROJECT_DIR$/HW3_SipKAP_BobProxy/src/BobProxyEncryptedConnection.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HW3/SipKAP_BobProxy/src/ConnectionNotSafeException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HW3/SipKAP_BobProxy/src/I2PClient.java" beforeDir="false" afterPath="$PROJECT_DIR$/HW3_SipKAP_BobProxy/src/I2PClient.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HW3/SipKAP_BobProxy/src/I2PServer.java" beforeDir="false" afterPath="$PROJECT_DIR$/HW3_SipKAP_Alice_Proxy/src/I2PServer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HW3/SipKAP_BobProxy/src/MainBobProxy.java" beforeDir="false" afterPath="$PROJECT_DIR$/HW3_SipKAP_BobProxy/src/MainBobProxy.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HW3/SipKAP_BobProxy/src/Message.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HW3/SipKAP_BobProxy/src/SIPMessage.java" beforeDir="false" afterPath="$PROJECT_DIR$/HW3_SipKAP_Alice_Proxy/src/SIPMessage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HW3/SipKAP_BobProxy/src/Sip.java" beforeDir="false" afterPath="$PROJECT_DIR$/HW3_SipKAP_BobProxy/src/Sip.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HW3/SipKAP_BobProxy/src/TokenGenerator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HW3/SipKAP_BobProxy/src/UnknownProtocolCommandException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HW3/SipKAP_BobProxy/src/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/HW3_SipKAP_Bob/src/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HW3/SipKAP_BobProxy/users/users.dat" beforeDir="false" afterPath="$PROJECT_DIR$/HW3_SipKAP_BobProxy/users/users.dat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HW4/Askisi_2_omadiki.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/HW4_AirReservation_Client/Askisi_2_omadiki.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HW4/DS3_Client/src/AirReservation.java" beforeDir="false" afterPath="$PROJECT_DIR$/HW4_AirReservation_Server/src/AirReservation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HW4/DS3_Client/src/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/HW4_AirReservation_Client/src/Client.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HW4/DS3_Client/src/MainMenu.java" beforeDir="false" afterPath="$PROJECT_DIR$/HW4_AirReservation_Client/src/MainMenu.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HW4/DS3_Server/flights.txt" beforeDir="false" afterPath="$PROJECT_DIR$/HW4_AirReservation_Server/flights.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HW4/DS3_Server/src/AirReservation.class" beforeDir="false" afterPath="$PROJECT_DIR$/HW4_AirReservation_Server/src/AirReservation.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HW4/DS3_Server/src/AirReservation.java" beforeDir="false" afterPath="$PROJECT_DIR$/HW4_AirReservation_Client/src/AirReservation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HW4/DS3_Server/src/AirReservationServant.class" beforeDir="false" afterPath="$PROJECT_DIR$/HW4_AirReservation_Server/src/AirReservationServant.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HW4/DS3_Server/src/AirReservationServant.java" beforeDir="false" afterPath="$PROJECT_DIR$/HW4_AirReservation_Server/src/AirReservationServant.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HW4/DS3_Server/src/ExceededSeatCapacityException.class" beforeDir="false" afterPath="$PROJECT_DIR$/HW4_AirReservation_Server/src/ExceededSeatCapacityException.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HW4/DS3_Server/src/ExceededSeatCapacityException.java" beforeDir="false" afterPath="$PROJECT_DIR$/HW4_AirReservation_Server/src/ExceededSeatCapacityException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HW4/DS3_Server/src/Flight.class" beforeDir="false" afterPath="$PROJECT_DIR$/HW4_AirReservation_Server/src/Flight.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HW4/DS3_Server/src/Flight.java" beforeDir="false" afterPath="$PROJECT_DIR$/HW4_AirReservation_Server/src/Flight.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HW4/DS3_Server/src/Reservation.class" beforeDir="false" afterPath="$PROJECT_DIR$/HW4_AirReservation_Server/src/Reservation.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HW4/DS3_Server/src/Reservation.java" beforeDir="false" afterPath="$PROJECT_DIR$/HW4_AirReservation_Server/src/Reservation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HW4/DS3_Server/src/Server.class" beforeDir="false" afterPath="$PROJECT_DIR$/HW4_AirReservation_Server/src/Server.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HW4/DS3_Server/src/Server.java" beforeDir="false" afterPath="$PROJECT_DIR$/HW4_AirReservation_Server/src/Server.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HW5/Askisi_1_omadiki.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HW5/Client/src/Announcement.java" beforeDir="false" afterPath="$PROJECT_DIR$/HW5_Client/src/Announcement.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HW5/Client/src/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/HW5_Client/src/Client.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HW5/Client/src/DatesCompException.java" beforeDir="false" afterPath="$PROJECT_DIR$/HW5_Client/src/DatesCompException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HW5/Client/src/MainMenu.java" beforeDir="false" afterPath="$PROJECT_DIR$/HW5_Client/src/MainMenu.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HW5/Client/src/Message.java" beforeDir="false" afterPath="$PROJECT_DIR$/HW5_Client/src/Message.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HW5/Client/src/TableModel.java" beforeDir="false" afterPath="$PROJECT_DIR$/HW5_Client/src/TableModel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HW5/Client/src/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/HW5_Client/src/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HW5/Server/src/Announcement.java" beforeDir="false" afterPath="$PROJECT_DIR$/HW5_Server/src/Announcement.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HW5/Server/src/Message.java" beforeDir="false" afterPath="$PROJECT_DIR$/HW5_Server/src/Message.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HW5/Server/src/Server.java" beforeDir="false" afterPath="$PROJECT_DIR$/HW5_Server/src/Server.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HW5/Server/src/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/HW5_Server/src/User.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2M0tqx0vnidkCorSykRF8L85vA9" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "C:/Users/Mimis/IdeaProjects/ICSD-java-homework"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Mimis\IdeaProjects\ICSD-java-homework" />
+      <recent name="C:\Users\Mimis\IdeaProjects\ICSD-java-homework\HW1" />
+      <recent name="C:\Users\Mimis\IdeaProjects\ICSD-java-homework\HW4_AirReservation_Client" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fcbc52c6-e68a-41bd-8b25-93362dd52bea" name="Changes" comment="" />
+      <created>1676916521400</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1676916521400</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="added all projects" />
+    <option name="LAST_COMMIT_MESSAGE" value="added all projects" />
+  </component>
+</project>

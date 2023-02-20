@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/HW5/Client/Client.iml" filepath="$PROJECT_DIR$/HW5/Client/Client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HW4/DS3_Client/DS3_Client.iml" filepath="$PROJECT_DIR$/HW4/DS3_Client/DS3_Client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HW4/DS3_Server/DS3_Server.iml" filepath="$PROJECT_DIR$/HW4/DS3_Server/DS3_Server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ICSD-java-homework.iml" filepath="$PROJECT_DIR$/ICSD-java-homework.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HW5/Server/Server.iml" filepath="$PROJECT_DIR$/HW5/Server/Server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HW3/SipKAP_Alice/SipKAP_Alice.iml" filepath="$PROJECT_DIR$/HW3/SipKAP_Alice/SipKAP_Alice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HW3/SipKAP_AliceProxy/SipKAP_AliceProxy.iml" filepath="$PROJECT_DIR$/HW3/SipKAP_AliceProxy/SipKAP_AliceProxy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HW3/SipKAP_Bob/SipKAP_Bob.iml" filepath="$PROJECT_DIR$/HW3/SipKAP_Bob/SipKAP_Bob.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HW3/SipKAP_BobProxy/SipKAP_BobProxy.iml" filepath="$PROJECT_DIR$/HW3/SipKAP_BobProxy/SipKAP_BobProxy.iml" />
+    </modules>
+  </component>
+</project>
