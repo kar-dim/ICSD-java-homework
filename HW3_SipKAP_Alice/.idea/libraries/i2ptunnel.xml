@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="i2ptunnel">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/i2p/i2ptunnel.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

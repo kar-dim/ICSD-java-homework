@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="router">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/i2p/router.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

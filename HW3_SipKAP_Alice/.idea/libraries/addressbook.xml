@@ -1,0 +1,39 @@
+<component name="libraryTable">
+  <library name="addressbook">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/i2p/addressbook.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/i2p/commons-el.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/i2p/desktopgui.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/i2p/i2psnark.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/i2p/jasper-runtime.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/i2p/javax.servlet.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/i2p/jbigi.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/i2p/jetty-continuation.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/i2p/jetty-deploy.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/i2p/jetty-http.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/i2p/jetty-io.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/i2p/jetty-i2p.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/i2p/jetty-rewrite-handler.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/i2p/jetty-security.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/i2p/jetty-servlets.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/i2p/jetty-servlet.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/i2p/jetty-start.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/i2p/jetty-webapp.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/i2p/jetty-util.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/i2p/jetty-xml.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/i2p/jrobin.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/i2p/jstl.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/i2p/mstreaming.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/i2p/org.mortbay.jetty.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/i2p/org.mortbay.jmx.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/i2p/routerconsole.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/i2p/sam.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/i2p/standard.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/i2p/streaming.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/i2p/systray.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/i2p/wrapper.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

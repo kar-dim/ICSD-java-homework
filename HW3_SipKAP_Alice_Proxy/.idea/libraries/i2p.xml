@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="i2p">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/lib/i2p" />
+    </CLASSES>
+    <JAVADOC />
+    <NATIVE>
+      <root url="file://$PROJECT_DIR$/lib/i2p" />
+    </NATIVE>
+    <SOURCES />
+    <jarDirectory url="file://$PROJECT_DIR$/lib/i2p" recursive="false" />
+  </library>
+</component>
